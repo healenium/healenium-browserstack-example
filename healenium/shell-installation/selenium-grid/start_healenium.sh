@@ -14,7 +14,9 @@ HLM_LOG_LEVEL=info
 RECOVERY_TRIES=1
 SCORE_CAP=.6
 HEAL_ENABLED=true
+# Replase AUTOMATE_USERNAME and AUTOMATE_ACCESS_KEY to your browserstack credentials
 SELENIUM_SERVER_URL=https://AUTOMATE_USERNAME:AUTOMATE_ACCESS_KEY@hub-cloud.browserstack.com/wd/hub
+# Replase AUTOMATE_USERNAME and AUTOMATE_ACCESS_KEY to your browserstack credentials
 APPIUM_SERVER_URL=https://AUTOMATE_USERNAME:AUTOMATE_ACCESS_KEY@hub-cloud.browserstack.com/wd/hub
 HEALENIUM_SERVER_URL=http://localhost:7878
 HEALENIUM_SERVICE=http://localhost:7878
