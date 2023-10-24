@@ -9,7 +9,9 @@
 [Overall information](#overall-information)
 
 [Healenium BrowserStack installation](#healenium-browserstack-installation)
+
 [Configure Healenium-Proxy with Docker](#configure-healenium-proxy-with-docker)
+
 [Configure Healenium-Proxy without Docker](#configure-healenium-proxy-without-docker)
 
 
